@@ -1,0 +1,37 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f9;
+  color: #333;
+}
+.hero {
+  text-align: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, #4b6cb7, #182848);
+  color: white;
+}
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+.links a {
+  color: #aadfff;
+  margin: 0 0.5rem;
+}
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+section h2 {
+  color: #4b6cb7;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #333;
+  color: white;
+}
